@@ -1,6 +1,6 @@
-Name:
+Name:Stephen Do
 
-EID:
+EID:svd389
 
 Team Number:
 
@@ -8,19 +8,21 @@ Team Number:
 
 1. Why does your program need a setup and a loop?
 
-    your answer here
+    There needs to be an area of code that is only run once and a segment of code that loops forever.
 
 2. What is the downside to putting all your code in a loop?
 
-    your answer here
+    The code would be harder to manage if all the code including variable were re-initialized. The program would also 
+	perform worse if it repeated all lines of code. 
 
 3. Why does your code need to be compiled?
 
-    your answer here
+    Code needs to be complied because the code that we write needs to be translated into assembly language and then into binary 
+	that the computer can understand.
 
 4. When lowering the frequency in procedure A, step 4, what is going wrong? Brainstorm some solutions. Dimmers exist in the real world. What is their solution?
 
-    your answer here
+    
 
 5. Why do you need to connect the logic analyzer ground to the ESP32 ground?
 
