@@ -66,13 +66,13 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/Lab1_FYDE.png)
+![Put path to your image here ->](img/Lab1_FYDE.PNG)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/Lab1_7A_FYDE.png)
+![Put path to your image here ->](img/Lab1_7A_FYDE.PNG)
 
 Procedure B, UART:
-![Put path to your image here ->](img/Lab1_B1.6_FYDE.png)
+![Put path to your image here ->](img/Lab1_B1.6_FYDE.PNG)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/Lab1_B2.6.png)
+![Put path to your image here ->](img/Lab1_B2.6.PNG)
