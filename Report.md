@@ -22,7 +22,7 @@ Team Number:
 
 4. When lowering the frequency in procedure A, step 4, what is going wrong? Brainstorm some solutions. Dimmers exist in the real world. What is their solution?
 
-    Brightness is controlled by time on, so when the frequency is too low the flickering effct is noticable. Dimmers function by lowering the frequency of the lights
+    Brightness is controlled by time on (duty cycle), so when the frequency is too low the flickering effct is noticable. Dimmers function by lowering the frequency of the lights
 	and they work best with a incandecent light bulbs that function on a more analog curve. 
 
 5. Why do you need to connect the logic analyzer ground to the ESP32 ground?
